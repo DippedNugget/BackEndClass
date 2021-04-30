@@ -29,7 +29,7 @@ public class App {
 		
 		System.out.println("A husband and wife went to the farmers market, let us call them" + ' ' + (husbandName + ' ' + '&' + ' ' + wifesName + ' ' + husbandLastName));
 		System.out.println("The price of an apple was" + ' ' + apple + ' ' + "dollars");
-		System.out.println("The price of an apple was" + ' ' + banana + ' ' + "dollar");
+		System.out.println("The price of an banana was" + ' ' + banana + ' ' + "dollar");
 		System.out.println("Their wallet contained" + ' ' + (walletMoney - apple) + ' ' + "after buying an apple");
 		System.out.println((husbandName) + ' ' + "was still hungry, so he purchased a banana and now is left with" + ' ' + (walletMoney - apple - banana));
 		
