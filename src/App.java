@@ -3,6 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		//list of variables
+		//this is only a test
 		/*
 		 * item price - int
 		 * Amount of money in wallet - int
