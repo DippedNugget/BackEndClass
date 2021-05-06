@@ -5,12 +5,12 @@ public class App {
 		//list of variables
 		/*
 		 * item price - int
-		 * Amount of money in wallet - int
-		 * Number of friends
-		 * Age in years (as a whole number)
+		 * Amount of money in wallet - double
+		 * Number of friends - int
+		 * Age in years (as a whole number) - int
 		 * First name - string
 		 * Last name - string
-		 * Midddle intial - char
+		 * Middle intial - char
 		 */
 	
 		int apple = 2;
