@@ -11,7 +11,7 @@ public class App {
 		 * Age in years (as a whole number)
 		 * First name - string
 		 * Last name - string
-		 * Midddle intial - char
+		 * Middle intial - char
 		 */
 	
 		int apple = 2;
