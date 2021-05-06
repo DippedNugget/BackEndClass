@@ -3,6 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		//list of variables
+		//this is only a test
 		/*
 		 * item price - int
 		 * Amount of money in wallet - int
@@ -10,7 +11,7 @@ public class App {
 		 * Age in years (as a whole number)
 		 * First name - string
 		 * Last name - string
-		 * Midddle intial - char
+		 * Middle intial - char
 		 */
 	
 		int apple = 2;
